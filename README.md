@@ -1,2 +1,2 @@
-# togoetransport
-ini project FP PWL
+# Aplikasi Togoetransport
+ini project FP PWL, semester 5
